@@ -35,7 +35,7 @@
       background-color: #000C30 !important;
       color: #FF3F3F !important;
       margin-bottom: 0px !important;
-      font: Futura-Bold;
+      
       margin-top: 40px;
       padding-left: 30px;
 
@@ -49,9 +49,9 @@
   }
   .jumbotron-heading
   {
-    font-family: Futura Std ExtraBold;
+    font-family: 'Futura-Bold';
     text-align: left;
-    font-weight: 100;
+    font-weight: 900;
     color: #FF3F3F; 
     font-size: 4.2vw !important;
   }
@@ -78,7 +78,7 @@
 
   .panel-body-dig
   {
-    background-image: url('/LLT/Resources/img1.jpg');
+    background-image: url('../Resources/img1.jpg');
     background-size: cover;
     padding: 3vw;
   }
